@@ -4,11 +4,11 @@
 
 Vue practice project. Enter initial principal amount, interest rate, time duration (in months or years), cycles year/month that the interest compounds.
 
-### Live Demo
-coming soon
+### Demo
+[https://vue-js-compound-interest-calculator.netlify.app/](https://vue-js-compound-interest-calculator.netlify.app/)
 
 ### Screenshot
-<img src="https://i.imgur.com/7sWkRzB.png" style="max-width: 100px; width: 100%; height: auto;">
+<img src="https://i.imgur.com/nfjGinS.png" style="max-width: 100px; width: 100%; height: auto;">
 
 ### Installation
 
