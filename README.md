@@ -1,24 +1,26 @@
-# vue-compound-interest-calculator
+## Compound Interest Calculator - Vue JS
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## Project setup
+
+Vue practice project. Enter initial principal amount, interest rate, time duration (in months or years), cycles year/month that the interest compounds.
+
+### Live Demo
+coming soon
+
+### Screenshot
+<img src="https://i.imgur.com/7sWkRzB.png" style="max-width: 100px; width: 100%; height: auto;">
+
+### Installation
+
 ```
+git clone https://github.com/johnuberbacher/vue-compound-interest-calculator
+
 npm install
+
+npm start / npm run serve
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Meta
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+John Uberbacher – [johnuberbacher.com](https://johnuberbacher.com)
