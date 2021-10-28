@@ -2,7 +2,7 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
-Vue practice project. Enter initial principal amount, interest rate, time duration (in months or years), cycles year/month that the interest compounds.
+Vue practice project. Enter initial principal amount, interest rate, time duration (in months or years), cycles year/month that the interest compounds. Built using Vue2 and TailwindCSS.
 
 ### Demo
 [https://vue-js-compound-interest-calculator.netlify.app/](https://vue-js-compound-interest-calculator.netlify.app/)
